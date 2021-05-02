@@ -1,0 +1,9 @@
+// Graph QL 로 해결할수 있는 문제 
+// One thing is Over-fetching
+// and another thing is Under-fetching
+
+/users/ GET
+GraphQL에서 url 은 없다
+
+
+yarn global add nodemon
